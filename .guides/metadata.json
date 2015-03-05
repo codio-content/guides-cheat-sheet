@@ -1,22 +1,6 @@
 {
  "sections": [
   {
-   "id": "639b3963-d5f1-e357-b43d-5ec1ae842ec9",
-   "title": "Remarkable",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Remarkable-639b.md"
-  },
-  {
-   "id": "a2f67f71-d563-e599-b872-ac268f129518",
-   "title": "Codio Blocks",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Codio-Blocks-a2f6.md"
-  },
-  {
    "id": "41a864a2-9bac-797-b7b6-b64ac256371a",
    "title": "Headings",
    "files": [],
