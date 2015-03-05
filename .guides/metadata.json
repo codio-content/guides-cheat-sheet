@@ -1,0 +1,132 @@
+{
+ "sections": [
+  {
+   "id": "639b3963-d5f1-e357-b43d-5ec1ae842ec9",
+   "title": "Remarkable",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Remarkable-639b.md"
+  },
+  {
+   "id": "a2f67f71-d563-e599-b872-ac268f129518",
+   "title": "Codio Blocks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Codio-Blocks-a2f6.md"
+  },
+  {
+   "id": "41a864a2-9bac-797-b7b6-b64ac256371a",
+   "title": "Headings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Headings-41a8.md"
+  },
+  {
+   "id": "c9e2cbe2-9ea6-c76b-1d9f-6b2ff058734c",
+   "title": "Bold, Italic, Underline",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bold--Italic--Underline-c9e2.md"
+  },
+  {
+   "id": "858a4ca2-5e59-f553-359e-816272dca620",
+   "title": "Code Blocks & Inserts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-Blocks---Inserts-858a.md"
+  },
+  {
+   "id": "4f2130ab-c13f-5075-c570-8c4286ad52ec",
+   "title": "Links",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Links-4f21.md"
+  },
+  {
+   "id": "dcb9a920-a879-a885-f57f-64eeb5ce8e48",
+   "title": "Images",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Images-dcb9.md"
+  },
+  {
+   "id": "7cb4cdf0-3f6e-8dec-94db-ff25e8d9a96f",
+   "title": "Callout Blocks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Callout-Blocks-7cb4.md"
+  },
+  {
+   "id": "c86ce6fd-a5d9-d8ca-906c-d20cb0e34d53",
+   "title": "Lists",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lists-c86c.md"
+  },
+  {
+   "id": "d9b0c522-3c7f-eece-128-b0e313db9ac4",
+   "title": "Definition Lists",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Definition-Lists-d9b0.md"
+  },
+  {
+   "id": "7ccc8c66-5a29-1a3e-5372-e34694d50fe",
+   "title": "Tables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Tables-7ccc.md"
+  },
+  {
+   "id": "926a202e-900c-3602-e87d-2291c0443eba",
+   "title": "Hover Text",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hover-Text-926a.md"
+  },
+  {
+   "id": "87f43ad9-c4a5-ad16-998d-b8348896e721",
+   "title": "Horizontal Rules",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Horizontal-Rules-87f4.md"
+  },
+  {
+   "id": "84dad647-a10e-42f7-7c71-70fa9a83545",
+   "title": "Super/Subscript",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Super-Subscript-84da.md"
+  },
+  {
+   "id": "633d53c-97c-35f2-5c98-6827843b1001",
+   "title": "Typographic Symbols",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Typographic-Symbols-633d.md"
+  },
+  {
+   "id": "a51634a9-409-405b-8a36-38e89b6ffdc",
+   "title": "Footnotes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Footnotes-a516.md"
+  }
+ ]
+}
