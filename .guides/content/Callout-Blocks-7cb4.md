@@ -42,4 +42,8 @@ Some text
 Some text
 |||
 
+|||guidance
+# Guidance
+Some text
+|||
 

@@ -1,4 +1,9 @@
-Inline `code`
+Inline `code` as you see here. 
+
+|||info
+# Important
+
+If you are referring to HTML elements like `<div>`, `<b>` etc., you **must** wrap these it back ticks or they will render as HTML.
 
 Indented code
 

@@ -1,6 +1,4 @@
 ## Unordered List
-(There are currently some bugs with nested lists).
-
 Create a list by starting a line with `+`, `-`, or `*`
 
 
@@ -11,6 +9,8 @@ Create a list by starting a line with `+`, `-`, or `*`
 - lamb
 
 ## Nested Unordered List
+There are currently some visual bugs with nested lists. Will be tidied up in due course.
+
 - Mary
 - had
   - a
@@ -30,7 +30,7 @@ Create a list by starting a line with `+`, `-`, or `*`
 1. Like this one does.
 
 ## Start list at a specific number
-(Bug here, so not yet working).
+Bug here, so not yet working with the right numbering starting point.
 
 10. Lorem ipsum dolor sit amet
 10. Consectetur adipiscing elit

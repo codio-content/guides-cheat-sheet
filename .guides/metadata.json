@@ -1,6 +1,14 @@
 {
  "sections": [
   {
+   "id": "c4cb1c01-8492-ea70-8098-11cf6453d290",
+   "title": "Using Guides",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-Guides-c4cb.md"
+  },
+  {
    "id": "41a864a2-9bac-797-b7b6-b64ac256371a",
    "title": "Headings",
    "files": [],
@@ -10,11 +18,11 @@
   },
   {
    "id": "c9e2cbe2-9ea6-c76b-1d9f-6b2ff058734c",
-   "title": "Bold, Italic, Underline",
+   "title": "Bold, Italic, Underline etc.",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Bold--Italic--Underline-c9e2.md"
+   "content-file": ".guides/content/Bold--Italic--Underline-etc--c9e2.md"
   },
   {
    "id": "858a4ca2-5e59-f553-359e-816272dca620",
@@ -39,6 +47,14 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Images-dcb9.md"
+  },
+  {
+   "id": "9f3fc48d-2e65-c379-20c1-eb5d8c92069",
+   "title": "Videos",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Videos-9f3f.md"
   },
   {
    "id": "7cb4cdf0-3f6e-8dec-94db-ff25e8d9a96f",
@@ -111,6 +127,14 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Footnotes-a516.md"
+  },
+  {
+   "id": "592751b-ac21-fd95-e360-39038fd8ee7f",
+   "title": "Using GitHub",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-GitHub-5927.md"
   }
  ]
 }
