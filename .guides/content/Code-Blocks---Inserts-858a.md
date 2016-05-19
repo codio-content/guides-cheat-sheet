@@ -5,7 +5,7 @@ Inline `code` as you see here.
 
 If you are referring to HTML elements like `<div>`, `<b>` etc., you **must** wrap these it back ticks or they will render as HTML.
 
-Indented code
+## Indented code
 
     // Some comments
     line 1 of code
@@ -13,13 +13,13 @@ Indented code
     line 3 of code
 
 
-Block code "fences"
+## Block code "fences"
 
 ```
 Sample text here...
 ```
 
-Syntax highlighting
+## Syntax highlighting
 
 ``` js
 var foo = function (bar) {
@@ -28,3 +28,11 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
+
+## Embedding Code in a table
+
+
+| Status | Response  |
+| ------ | --------- |
+| 200    | <pre><code>{<br/>  "id": 10,<br/>  "username": "alanpartridge"<br/>}</code></pre>   |
+| 400    |                                 |
