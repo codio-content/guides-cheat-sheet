@@ -11,7 +11,7 @@ Codio Guides has 2 modes :
 If you have not yet started work on a Guide, simply select the Edit option and you can start immediately.
 
 ## Documentation
-Documentation can be found at https://codio.com/docs/ide/tools/guides/
+Documentation can be found at https://codio.com/docs/content/authoring/
 
 If you find any anomalies, and there will be some due to the many changes we are currently making to Guides, then please email ijobling@codio.com with details and we will get this updated quickly.
 
